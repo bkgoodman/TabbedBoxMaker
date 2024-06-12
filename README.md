@@ -112,6 +112,15 @@ Much the same as for regular enclosures, except some options are removed, and so
 
 * If multiple rows, inter-row spacing
 
+## Use - Cardboard Box Maker
+
+Cardboard box maker lets you make fold-up cardboard boxes of a few different types. To use, look under "CNC Tools" exension, select "CNC Cardboard Box Maker...". Aside from obvious (height, depth, width) options, boxes can be configured with different top and bottom types:
+
+* None - Open top/bottom
+* Standard Fold - Regular 90-degree folder-over of each side (So you can tape-shut, like in a shipping box)
+* Flat Top w/ Sidefolds - Single piece flat top (with a front tab) - Sides fold 180-degrees over and lock downward
+* Locking Fold - Sides have tabs that you can tuck-under bottom 
+
 ## Installation
 
 1. Download the extension from this GitHub page using the *[Clone or download > Download ZIP](archive/refs/heads/master.zip)* link. If you are using an older version of Inkscape, you will need to download the correct version of the extension (see [Version History](#version-history) below)
